@@ -1,2 +1,2 @@
 # pop-docs
-Documentation minisite for Pop!_OS and related projects
+Future location of a documentation minisite for Pop!_OS and related projects
