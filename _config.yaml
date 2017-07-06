@@ -1,0 +1,20 @@
+# Site settings
+title: Pop!_OS by System76
+email: cassidy@system76.com
+description: >
+  Official Pop!_OS documentation
+baseurl: ""
+url: "http://support.system76.com" #  base hostname & protocol
+separator: "&sdot;" # Used in browser/tab titles
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+kramdown:
+  input: GFM # Use GitHub markdown extensions
+  syntax_highlighter: rouge
+
+gems:
+  - jekyll-redirect-from

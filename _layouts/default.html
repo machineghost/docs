@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="path-support">
+    {% include header.html %}
+
+    <header class="section">
+      <h1>{% if page.title %}{{ page.title }} {% else %} {{ site.title }} {% endif %}</h1>
+    </header>
+
+    <section class="content">
+      {{ content }}
+    </section>
+
+    {% include footer.html %}
+  </body>
+</html>
