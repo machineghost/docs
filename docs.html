@@ -1,0 +1,24 @@
+---
+layout: default
+title: Pop!_Docs
+---
+
+<header class="section">
+  <h1>{% if page.title %}{{ page.title }} {% else %} {{ site.title }} {% endif %}</h1>
+</header>
+
+<section class="content">
+  <p>All docs on the site:</p>
+
+  {% assign pages = site.pages | sort:"title" %}
+
+  {% for page in pages %}
+    {% if page.hidden != true %}
+      {% if page.layout == "docs" %}
+        <li>
+          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</section>

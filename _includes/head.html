@@ -3,6 +3,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#574e4a">
+
   <title>{% if page.title %}{{ page.title }} {{ site.separator}} {% endif %}{{ site.title }}</title>
+
   <link rel="stylesheet" type="text/css" media="all" href="https://system76.com/assets/app-v2.min.css">
+  <link rel="icon" sizes="196x196" href="{{ site.logo }}">
+
+  <meta itemprop="url"  content="http://pop.system76.com/">
+  <meta itemprop="logo" content="{{ site.logo }}">
+  <meta itemprop="description" content="{% if page.description %}{{ page.description }} {% else %} {{ site.description }} {% endif %}">
+  <meta itemprop="image" content="{% if page.image %}{{ page.image }} {% else %} {{ site.logo }} {% endif %}">
 </head>

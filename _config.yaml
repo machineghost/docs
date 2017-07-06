@@ -4,8 +4,9 @@ email: cassidy@system76.com
 description: >
   Official Pop!_OS documentation
 baseurl: ""
-url: "http://support.system76.com" #  base hostname & protocol
+url: "http://pop.system76.com" #  base hostname & protocol
 separator: "&sdot;" # Used in browser/tab titles
+logo: "https://system76.com/assets/icon-196.png"
 
 # Build settings
 markdown: kramdown
@@ -18,3 +19,16 @@ kramdown:
 
 gems:
   - jekyll-redirect-from
+
+# Front Matter Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+  -
+    scope:
+      path: "docs"
+    values:
+      layout: docs

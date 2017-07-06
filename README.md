@@ -2,7 +2,7 @@
 
 Minisite for Pop!_OS and related projects.
 
-[Listing of all pages](/docs)
+[Listing of all docs](/docs)
 
 ## Intentionally Minimalist.
 
