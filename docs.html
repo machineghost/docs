@@ -9,7 +9,7 @@ title: Docs Listing
 
 {% for page in pages %}
   {% if page.hidden != true %}
-    {% if page.title %}
+    {% if page.url != "README" %}
       <li>
         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       </li>
