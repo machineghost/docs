@@ -1,6 +1,12 @@
-# pop-docs
+---
+title: Pop!_OS
+---
 
-Future location of a documentation minisite for Pop!_OS and related projects
+# Pop!_Docs
+
+Minisite for Pop!_OS and related projects.
+
+[Listing of all pages](/docs)
 
 ## Intentionally Minimalist.
 
