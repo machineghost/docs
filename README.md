@@ -1,7 +1,3 @@
----
-title: Pop!_OS
----
-
 # Pop!_Docs
 
 Minisite for Pop!_OS and related projects.
