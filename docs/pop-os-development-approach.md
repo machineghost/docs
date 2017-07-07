@@ -32,6 +32,6 @@ Pop\!\_OS will adhere to the System76 product development process. This is an ex
 
   Prioritize based on how much each feature will benefit the broader customer base. Keep features small and focused. User-test to determine efficacy and release.
 
-**7. Bite-Sized Bugs:**
+**7. Bite-Sized Bugs**
 
   Finally, there are always bugs to work on and we want to keep quality high. We’ll revive Ubuntu’s 100 paper cuts program under the moniker Bite-sized Bugs.
