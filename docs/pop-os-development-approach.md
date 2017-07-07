@@ -1,5 +1,6 @@
-# Pop\!\_OS Development Approach
-
+---
+title: Pop!_OS Development Approach
+---
 Pop\!\_OS will adhere to the System76 product development process. This is an extended version of the process we’ve developed with our hardware product design project. There are seven parts.
 
 **1. Determine the customer and purpose**
