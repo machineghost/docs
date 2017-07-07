@@ -1,5 +1,5 @@
 ---
-title: Pop!_OS Roadmap
+title: Roadmap
 description: >
   Focus and features for the first release!
 ---
