@@ -1,3 +1,8 @@
+---
+title: Pop!_OS Roadmap
+description: >
+  Focus and features for the first release!
+---
 # Pop\!\_OS Roadmap
 
 The 17.10 release is scheduled for October 19th, 2017. This is the first Pop\!\_OS release and focuses on first use experience, appearance, and default applications.
