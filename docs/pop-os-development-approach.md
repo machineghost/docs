@@ -4,7 +4,7 @@ Pop\!\_OS will adhere to the System76 product development process. This is an ex
 
 **1. Determine the customer and purpose**
 
-  Pop\!\_OS is for people who use their computer to create, particularly in computer science and maker fields. This means that our research, user testing, and features will focus on these customers exclusively. The purpose is to make the most productive tool possible for these users.  
+  Pop\!\_OS is for people who use their computer to create, particularly in computer science and maker fields. This means that our research, user testing, and features will focus on these customers exclusively. The purpose is to make the most productive tool possible for these users.
 
 **2. Establish the Aesthetic**
 
@@ -34,4 +34,4 @@ Pop\!\_OS will adhere to the System76 product development process. This is an ex
 
 **7. Bite-Sized Bugs:**
 
-  Finally, there are always bugs to work on and we want to keep the quality high. We’ll revive Ubuntu’s 100 paper cuts program under the moniker Bite-sized Bugs.
+  Finally, there are always bugs to work on and we want to keep quality high. We’ll revive Ubuntu’s 100 paper cuts program under the moniker Bite-sized Bugs.
