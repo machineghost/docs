@@ -1,5 +1,6 @@
-# Convert Ubuntu to Pop\!\_OS
-
+---
+title: Convert Ubuntu to Pop\!\_OS
+---
 An installation of Ubuntu (17.04+) can be converted to Pop\!\_OS by running the following commands.
 
 ```
