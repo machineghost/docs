@@ -1,9 +1,7 @@
 ---
 title: Pop!_OS Development Approach
 description: >
-  Pop!_OS will adhere to the System76 product development process. This is an
-  extended version of the process we’ve developed with our hardware product
-  design project. There are seven parts.
+  Learn about the Pop!_OS development methodology.
 ---
 Pop!\_OS will adhere to the System76 product development process. This is an extended version of the process we’ve developed with our hardware product design project. There are seven parts.
 
