@@ -1,6 +1,8 @@
-# Convert Ubuntu to Pop\!\_OS
-
-An installation of Ubuntu (17.04+) can be converted to Pop\!\_OS by running the following commands.
+---
+title: Convert Ubuntu to Pop!_OS
+description: Learn how to turn Ubuntu 17.04+ into Pop!_OS
+---
+An installation of Ubuntu (17.04+) can be converted to Pop!\_OS by running the following commands.
 
 ```
 sudo add-apt-repository ppa:system76/pop

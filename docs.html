@@ -8,16 +8,21 @@ title: Pop!_Docs
 </header>
 
 <section class="content">
-  <p>All docs on the site:</p>
-
   {% assign pages = site.pages | sort:"title" %}
 
   {% for page in pages %}
     {% if page.hidden != true %}
       {% if page.layout == "docs" %}
-        <li>
-          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </li>
+        <article>
+          <h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
+          <p>
+            {% if page.description %}
+              {{ page.description | markdownify }}
+            {% else %}
+              {{ page.content | markdownify | strip_html | truncatewords:50 }}
+            {% endif %}
+          </p>
+        </article>
       {% endif %}
     {% endif %}
   {% endfor %}
