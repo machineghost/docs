@@ -13,7 +13,7 @@ To see how features will be chosen for future releases, visit [pop.system76.com/
 
 ## Installation
 
-* Add a feature to Ubiquity to toggle between minimal install and complete install. Pop!\_OS will use the minimal install while other Ubuntu flavors can use the complete install.
+* Add a feature to Ubiquity to toggle between "minimal" and "complete" Ubiquity. Pop!\_OS will use minimal while other Ubuntu flavors can use the complete.
 * Use GNOME Initial Setup for user configuration
 * Add nvidia driver to the installation media
 
@@ -21,6 +21,7 @@ To see how features will be chosen for future releases, visit [pop.system76.com/
 
 * Plymouth work for smooth and beautiful boot to login transitions
 * Pop!\_Theme refinement
+* GDM Theme
 
 ## GNOME Online Accounts
 
