@@ -1,5 +1,6 @@
 ---
 title: Getting Started with Bite-sized Bugs
+description: Get started contributing quickly with Bite-sized bugs!
 ---
 
 Some bugs are determined by the maintainer of Pop\! projects to be easy to fix, these bugs are referred to as "Bite-sized bugs" and will show up in the project's issue tracker as such.
