@@ -1,5 +1,6 @@
 ---
 title: Install the Pop!_theme
+description: Get started contributing quickly with Bite-sized bugs!
 ---
 
 ![Pop\!\_gtk Theme](/images/install-pop-theme/pop-gtk-theme.png)
