@@ -1,6 +1,6 @@
 ---
 title: Install the Pop!_theme
-description: Get started contributing quickly with Bite-sized bugs!
+description: How to install the Pop!_theme on other Linux distributions.
 ---
 
 ![Pop\!\_gtk Theme](/images/install-pop-theme/pop-gtk-theme.png)
@@ -15,7 +15,7 @@ sudo apt update
 sudo apt install pop-theme
 ```
 
-It's recommended to use the ```pop-theme``` metapackage, as this will pull in all components of the look. However, individual componenets can be installed separately, e.g.:
+It's recommended to use the ```pop-theme``` metapackage, as this will pull in all components of the look. However, individual components can be installed separately, e.g.:
 
 ```
 sudo apt install pop-gtk-theme
