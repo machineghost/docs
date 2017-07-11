@@ -1,5 +1,6 @@
 ---
 title: Using LUKS Disk Encryption with Pop!_OS
+description: Learn how to Encrpyt your disk on Install. 
 ---
 
 Alright, You want to hide your stuff from peeking eyes. The first place to start is disk encryption.
