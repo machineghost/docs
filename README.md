@@ -26,10 +26,13 @@ Docs use [Front Matter](https://jekyllrb.com/docs/frontmatter/) to set some attr
 ```yaml
 ---
 title: Foo
+description: Bar baz bin qux
 ---
 ```
 
 And then **don't** start the doc with a heading, as it will show up automatically. 
+
+You should also set a description; this will show up on the [docs index](http://pop.system76.com/docs/) page.
 
 
 ### Local Development
