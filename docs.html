@@ -7,13 +7,13 @@ title: Pop!_Docs
   <h1>{% if page.title %}{{ page.title }} {% else %} {{ site.title }} {% endif %}</h1>
 </header>
 
-<section class="content">
+<section class="content docs">
   {% assign pages = site.pages | sort:"title" %}
 
   {% for page in pages %}
     {% if page.hidden != true %}
       {% if page.layout == "docs" %}
-        <article>
+        <article class="doc-description">
           <h3><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h3>
           <p>
             {% if page.description %}

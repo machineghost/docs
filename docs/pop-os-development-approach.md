@@ -1,5 +1,5 @@
 ---
-title: Pop!_OS Development Approach
+title: Development Approach
 description: >
   Learn about the Pop!_OS development methodology.
 ---
