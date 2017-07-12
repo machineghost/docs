@@ -51,7 +51,7 @@ You'll want to know the brand of your flash drive so that you can select it from
 
 Once you select the flash drive and it boots from the Pop\!\_OS live image (cool words for an OS running from a flash drive), you should see the Pop\!\_Logo and the text "Try or Install Pop_OS". (See pic below):
 
-![Try or Install Pop\!\_OS](/images/install-pop-os/try-or-install-pop.jpg)
+![Try or Install Pop\!\_OS](/images/install-pop-os/selected.png)
 
 Once the flash drives boots, you will be at the Pop\!\_OS desktop! You can use the operating system as you normally would now. Because it is running from the flash drive performance may be slower and if you reboot back into the flash drive at this point, you'll lose anything you've changed while running in this "live session".
 
