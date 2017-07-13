@@ -25,7 +25,7 @@ Once you have installed Etcher and downloaded the Pop!\_OS .iso image, open up t
 
 Choose "Select Image" and navigate to where you downloaded Pop!\_OS, click on it and hit the "open" button:
 
-![Select Pop!\_OS iso](/images/install-pop-os/open-pop-iso-etcher)
+![Select Pop!\_OS iso](/images/install-pop-os/open-pop-iso-etcher.png)
 
 Next you select the drive that you want to use, if there is only one it should automatically recognize that you have a flash drive inserted and select it.
 
