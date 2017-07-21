@@ -15,4 +15,4 @@ Next, choose an encryption password. Keep this safe!
 
 You may want to over-write your empty space if this is a re-install, so if anybody ever does get a hold of your drive, it won't be possible to take your data.
 
-Your done!
+You're done!
