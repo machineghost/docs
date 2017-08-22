@@ -11,7 +11,7 @@ Principles for app default inclusion.
 * A link opens a browser
 * An event invite adds it to the Calendar
 * Defining a word opens Dictionary
-* An address opens Maps*
+* An address opens Maps
 2. Leverage online accounts
 * Surface users online data in local applications
 3. Prefer GNOME Core apps and apps that follow the GNOME HIG
