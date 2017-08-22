@@ -1,11 +1,11 @@
 ---
 title: Default Apps
 description: >
-  Principles for app default inclusion.
+  Principles for default app inclusion.
 ---
 ### Pop!\_OS: Productive out of the box. Easy to modify to meet individual needs.
 
-Principles for app default inclusion.
+Principles for default app inclusion.
 
 1. Include apps that create a cohesive desktop experience
 * A link opens a browser
