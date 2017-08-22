@@ -9,10 +9,10 @@ Principles for app default inclusion.
 
 1. Include apps that create a cohesive desktop experience
 
-⋅⋅* A link opens a browser
-⋅⋅* An event invite adds it to the Calendar
-⋅⋅* Defining a word opens Dictionary
-⋅⋅* An address opens Maps*
+* A link opens a browser
+* An event invite adds it to the Calendar
+* Defining a word opens Dictionary
+* An address opens Maps*
 2. Leverage online accounts
 
 ⋅⋅* Surface users online data in local applications
