@@ -14,8 +14,7 @@ Principles for app default inclusion.
 * Defining a word opens Dictionary
 * An address opens Maps*
 2. Leverage online accounts
-
-⋅⋅* Surface users online data in local applications
+* Surface users online data in local applications
 3. Prefer GNOME Core apps and apps that follow the GNOME HIG
 4. Include apps that open common formats
 5. Include utilities that enable accessing and manipulating external media
