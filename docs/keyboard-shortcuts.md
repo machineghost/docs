@@ -23,7 +23,7 @@ your open windows.
 Here's an exhaustive list of every Super shortcut for reference:
 
 | Shortcut                     | Action                                  |
-|==============================|=========================================|
+| ---------------------------- | --------------------------------------- |
 | Super                        | Activities overview                     |
 | Super + A                    | Applications                            |
 | Super + P                    | Presentation mode (cycle display modes) |
@@ -67,7 +67,7 @@ There are a handful of oddball shortcuts for legacy reasons, but they might come
 in handy:
 
 | Shortcut         | Action            |
-|==================|===================|
+| ---------------- | ----------------- |
 | Ctrl + Alt + Del | Log out           |
 | F11              | Toggle fullscreen |
 | Alt + Space      | Window menu       |
