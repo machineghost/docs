@@ -3,62 +3,65 @@ title: Keyboard Shortcuts
 description: Learn how master using Pop!_OS with your keyboard
 ---
 
-# Super
+# Super key
 
 <!-- TODO: Add Pop! key when that starts shipping -->
 
-Super is the OS key on your keyboard; if you're using a System76 computer, it 
-will be the Ubuntu logo. On a computer that came with Windows, it's the Windows
-key. On a Mac, it's the Command key.
+<kbd>Super</kbd> is the OS key on your keyboard; if you're using a System76
+computer, it's the Ubuntu key. On a computer that came with Windows, it's the
+Windows key. On a Mac, it's the Command key.
 
-In Pop!_OS, it's the key that handles the majority of OS and window actions.
+In Pop!\_OS, <kbd>Super</kbd> handles the majority of OS and window actions.
 
-Tapping it on its own brings up the Activities overview, which is the core way
-of launching apps and managing your workflow.
+## Main actions
 
-Super + Up/Down change workspaces, Ctrl + Super + Left/Right tiles windows to 
-the left and right of your display, and Super + Tab quickly switches between
-your open windows.
+Tapping <kbd>Super</kbd> on its own brings up the Activities overview, which is
+the core way of launching apps and managing your workflow.
 
-Here's an exhaustive list of every Super shortcut for reference:
+<kbd>Super</kbd> + <kbd>Up</kbd>/<kbd>Down</kbd> switch workspaces up and down.
+<kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd> tile
+windows to the left and right of your display. <kbd>Super</kbd> + <kbd>Tab</kbd>
+quickly switches between your open windows.
+
+## Full list of shortcuts
 
 | Shortcut                     | Action                                  |
 | ---------------------------- | --------------------------------------- |
-| Super                        | Activities overview                     |
-| Super + A                    | Applications                            |
-| Super + P                    | Presentation mode (cycle display modes) |
-| Super + L                    | Lock screen                             |
-| Super + O              | Orientation lock (on devices w/accelerometer) |
-| Super + D                    | Show desktop                            |
-| Super + H                    | Hide window (minimize)                  |
-| Super + V                    | Calendar and notifications indicator    |
-| Super + N                    | Focus active notification               |
-| Super + T                    | Terminal                                |
-| Super + F                    | Files                                   |
-| Super + W                    | Close window                            |
-| Super + Up                   | Switch workspace up                     |
-| Super + Down                 | Switch workspace down                   |
-| Super + Home                 | First workspace                         |
-| Super + End                  | Last workspace                          |
-| Shift + Super + Up           | Switch workspace up with window         |
-| Shift + Super + Dn           | Switch workspace down with window       |
-| Alt + Super + S              | Toggle screen reader                    |
-| Alt + Super + 8              | Magnifier                               |
-| Ctrl + Super + Left          | Snap left                               |
-| Ctrl + Super + Right         | Snap right                              |
-| Ctrl + Super + Up            | Toggle maximize                         |
-| Ctrl + Super + Down          | Restore window (unmaximize/untile)      |
-| Super + Tab                  | Switch windows                          |
-| Shift + Super + Tab          | Switch windows backwards                |
-| Super + Above Tab            | Switch windows of current app           |
-| Shift + Super + Above Tab    | Switch windows of current app backwards |
-| Shift + Ctrl + Super + Left  | Move window to previous monitor         |
-| Shift + Ctrl + Super + Right | Move window to next monitor             |
-| Super + F10                  | Application menu                        |
-| Super + Space                | Next input source                       |
-| Shift + Super + Space        | Previous input source                   |
-| Super + Drag                 | Move window                             |
-| Super + Right-drag           | Resize window                           |
+| <kbd>Super</kbd>                        | Activities overview                     |
+| <kbd>Super</kbd> + A                    | Applications                            |
+| <kbd>Super</kbd> + P                    | Presentation mode (cycle display modes) |
+| <kbd>Super</kbd> + L                    | Lock screen                             |
+| <kbd>Super</kbd> + O              | Orientation lock (on devices w/accelerometer) |
+| <kbd>Super</kbd> + D                    | Show desktop                            |
+| <kbd>Super</kbd> + H                    | Hide window (minimize)                  |
+| <kbd>Super</kbd> + V                    | Calendar and notifications indicator    |
+| <kbd>Super</kbd> + N                    | Focus active notification               |
+| <kbd>Super</kbd> + T                    | Terminal                                |
+| <kbd>Super</kbd> + F                    | Files                                   |
+| <kbd>Super</kbd> + W                    | Close window                            |
+| <kbd>Super</kbd> + Up                   | Switch workspace up                     |
+| <kbd>Super</kbd> + Down                 | Switch workspace down                   |
+| <kbd>Super</kbd> + Home                 | First workspace                         |
+| <kbd>Super</kbd> + End                  | Last workspace                          |
+| Shift + <kbd>Super</kbd> + Up           | Switch workspace up with window         |
+| Shift + <kbd>Super</kbd> + Dn           | Switch workspace down with window       |
+| Alt + <kbd>Super</kbd> + S              | Toggle screen reader                    |
+| Alt + <kbd>Super</kbd> + 8              | Magnifier                               |
+| Ctrl + <kbd>Super</kbd> + Left          | Snap left                               |
+| Ctrl + <kbd>Super</kbd> + Right         | Snap right                              |
+| Ctrl + <kbd>Super</kbd> + Up            | Toggle maximize                         |
+| Ctrl + <kbd>Super</kbd> + Down          | Restore window (unmaximize/untile)      |
+| <kbd>Super</kbd> + Tab                  | Switch windows                          |
+| Shift + <kbd>Super</kbd> + Tab          | Switch windows backwards                |
+| <kbd>Super</kbd> + Above Tab            | Switch windows of current app           |
+| Shift + <kbd>Super</kbd> + Above Tab    | Switch windows of current app backwards |
+| Shift + Ctrl + <kbd>Super</kbd> + Left  | Move window to previous monitor         |
+| Shift + Ctrl + <kbd>Super</kbd> + Right | Move window to next monitor             |
+| <kbd>Super</kbd> + F10                  | Application menu                        |
+| <kbd>Super</kbd> + Space                | Next input source                       |
+| Shift + <kbd>Super</kbd> + Space        | Previous input source                   |
+| <kbd>Super</kbd> + Drag                 | Move window                             |
+| <kbd>Super</kbd> + Right-drag           | Resize window                           |
 
 
 # Other
