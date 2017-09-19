@@ -73,6 +73,6 @@ Accessibility shortcuts use <kbd>Alt</kbd> + <kbd>Super</kbd> as their base.
 
 | Shortcut | Action |
 | -------- | ------ |
-| <kbd>Alt</kbd> + <kbd>Super</kbd> + S | Toggle screen reader |
-| <kbd>Alt</kbd> + <kbd>Super</kbd> + 8 | Toggle magnifier |
+| <kbd>Alt</kbd> + <kbd>Super</kbd> + <kbd>S</kbd> | Toggle screen reader |
+| <kbd>Alt</kbd> + <kbd>Super</kbd> + <kbd>8</kbd> | Toggle magnifier |
 | <kbd>Alt</kbd> + <kbd>Super</kbd> + <kbd>+</kbd>/<kbd>-</kbd> | Zoom in/out (when magnifier is active) |
