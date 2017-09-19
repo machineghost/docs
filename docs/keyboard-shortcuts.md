@@ -15,8 +15,8 @@ In Pop!\_OS, <kbd>Super</kbd> handles the majority of OS and window actions.
 
 #### Primary Actions
 
-Tapping <kbd>Super</kbd> on its own brings up the Activities overview, which is
-the core way of launching apps and managing your workflow.
+Tapping <kbd>Super</kbd> on its own brings up the **Activities overview**, which
+is the core way of launching apps and managing your workflow.
 
 <kbd>Super</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd> switch workspaces up and down.
 <kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>←</kbd>/<kbd>→</kbd> tile
