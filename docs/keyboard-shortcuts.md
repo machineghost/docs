@@ -3,7 +3,7 @@ title: Keyboard Shortcuts
 description: Learn how master using Pop!_OS with your keyboard
 ---
 
-# Super Key
+## Super Key
 
 <!-- TODO: Add Pop! key when that starts shipping -->
 
@@ -13,7 +13,7 @@ Windows key. On <kbd>A</kbd> Mac, it's the Command key.
 
 In Pop!\_OS, <kbd>Super</kbd> handles the majority of OS and window actions.
 
-## Primary Actions
+### Primary Actions
 
 Tapping <kbd>Super</kbd> on its own brings <kbd>Up</kbd> the Activities overview, which is
 the core way of launching apps and managing your workflow.
@@ -24,9 +24,9 @@ windows to the left and right of your display. <kbd>Super</kbd> + <kbd>Tab</kbd>
 quickly switches between your open windows.
 
 
-# All Shortcuts
+## All Shortcuts
 
-## Window & Workspace Management
+### Window & Workspace Management
 
 Windows can be switched between, moved around, tiled, and closed all with the
 keyboard. <kbd>Shift</kbd> acts as <kbd>A</kbd> modifier that lets you do <kbd>A</kbd> variation on
@@ -48,7 +48,7 @@ the action, too.
 | <kbd>Super</kbd> + Right-drag | Resize window | |
 | <kbd>Alt</kbd> + <kbd>Space</kbd> | Window menu |
 
-## Operating System
+### Operating System
 
 | Shortcut | Action |
 | -------- | ------ |
@@ -67,7 +67,7 @@ the action, too.
 | <kbd>Alt</kbd> + <kbd>F2</kbd> | Run command |
 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Del</kbd> | Log out |
 
-## Accessibility
+### Accessibility
 
 Accessibility shortcuts use <kbd>Alt</kbd> + <kbd>Super</kbd> as their base.
 
