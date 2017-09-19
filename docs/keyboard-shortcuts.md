@@ -40,7 +40,7 @@ the action, too.
 | <kbd>Super</kbd> + <kbd>H</kbd> | Hide window (minimize) | |
 | <kbd>Super</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd> | Switch workspace up/down | Switch workspace up/down with window |
 | <kbd>Super</kbd> + <kbd>Home</kbd> | Switch to first/last workspace | Switch to first/last workspace with window |
-| <kbd>Ctrl</kbd> + <kbd>Super</kbd> + Left/Right | Tile window to the left/right | |
+| <kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>←</kbd>/<kbd>→</kbd> | Tile window to the left/right | |
 | <kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>↑</kbd> | Toggle maximize | |
 | <kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>↓</kbd> | Restore window (unmaximize/untile) | |
 | <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Super</kbd> + <kbd>←</kbd>/<kbd>→</kbd>/<kbd>↑</kbd>/<kbd>↓</kbd> | Move window to display to the left, right, top, or bottom | |
