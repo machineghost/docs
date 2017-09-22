@@ -37,6 +37,6 @@ gnome-shell-extension-prefs
 …and press <kbd>Enter</kbd>. In the **Shell Extensions** window that comes up,
 turn on the **Ubuntu AppIndicators** switch.
 
-Lastly, you may need to log out and back in for icons to show up. When you do,
-any app's status icons will show up at the right-side of the top panel, next to
-the system menu.
+Lastly, you may need to **log out** and back in for icons to show up. When you
+do, any app's status icons will show up at the right-side of the top panel, next
+to the system menu.
