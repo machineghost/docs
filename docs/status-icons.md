@@ -12,6 +12,9 @@ However, some apps you use (like Dropbox) might not have been updated and thus
 might depend on being able to draw a status icon. Fortunately it is easy to add
 legacy status icon support with a GNOME Shell extension.
 
+> **Note:** This extension is not provided by System76 nor officially supported
+> by Pop!\_OS; we are simply directing you how to use it as a convenience.
+
 ## Install
 
 The extension `gnome-shell-extension-appindicator` works well for this and is
