@@ -1,21 +1,21 @@
 ---
-title: Getting Started with Bite-sized Bugs
-description: Get started contributing quickly with Bite-sized bugs!
+title: Getting Started with Bitesize Bugs
+description: Get started contributing quickly with bitesize bugs!
 ---
 
-Some bugs are determined by the maintainer of Pop\! projects to be easy to fix, these bugs are referred to as "Bite-sized bugs" and will show up in the project's issue tracker as such.
+Some bugs are determined by the maintainer of Pop\! projects to be easy to fix, these bugs are referred to as "bitesize" bugs and will show up in the project's issue tracker as such.
 
-![Bite-sized Bugs](/images/bite-sized-bugs/bsb-github-screenshot.png)
+![Bitesize Bugs](/images/bite-sized-bugs/bsb-github-screenshot.png)
 
-The Bite-sized bug badge exists on the right side of the project's issue tracker. New contributors should look for these for an easy bug that they can tackle in an hour or two. Experienced contributors can grab these if they want something they can knock out quickly when they are short on time.
+The bitesize bug badge exists on the right side of the project's issue tracker. New contributors should look for these for an easy bug that they can tackle in an hour or two. Experienced contributors can grab these if they want something they can knock out quickly when they are short on time.
 
 Solving these bugs often contributes to better polish for the overall project. Alone, these bugs may seem small, but when you add them up they vastly improve the quality of the platform. They also offer an opportunity to get involved in the project without dedicating a lot of time.
 
-[Bite-sized bugs for Pop\!\_OS (distro)](https://github.com/system76/pop-distro/issues?q=is%3Aopen+is%3Aissue+label%3A%22bite-sized+bug%22).
+[Bitesize bugs for Pop\!\_OS (distro)](https://github.com/system76/pop-distro/issues?q=is%3Aopen+is%3Aissue+label%3A%22bitesize%22).
 
-### Bite-sized Bug Example
+### Bitesize Bug Example
 
-Let's go through how to contribute via a bite-sized bug. First take a look at what is listed as a [bite-sized bug via the issue tracker](https://github.com/system76/pop-distro/issues?q=is%3Aopen+is%3Aissue+label%3A%22bite-sized+bug%22).
+Let's go through how to contribute via a bitesize bug fix. First take a look at what is listed as a [bitesize bug via the issue tracker](https://github.com/system76/pop-distro/issues?q=is%3Aopen+is%3Aissue+label%3A%22bitesize%22).
 
 For this example I've identified an issue with the terminal colors.
 
