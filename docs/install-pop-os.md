@@ -9,9 +9,7 @@ Requirements: At the time of this writing Pop!\_OS only runs on 64-bit x86 archi
 
 ## Download Installation Media
 
-In order to install Pop!\_OS, we must first download the .iso image, this is a disk image with the operating system and installer on it. You can download [Pop!\_OS here](http://pop.system76.com), just click the "GET IT POPPIN" button (picture below) and the download should begin!
-
-![Pop!_OS Download Button](/images/install-pop-os/pop-download-button.png)
+In order to install Pop!\_OS, we must first download the .iso image, this is a disk image with the operating system and installer on it. You can download [Pop!\_OS here](http://pop.system76.com), just click the link and the download should begin!
 
 ## Make Bootable drive
 
@@ -61,31 +59,15 @@ First we have to select the language we want to use:
 
 ![Select Language](/images/install-pop-os/select-language-pop.jpg)
 
-The next screen asks if you want to install updates during the OS install, if you are connected to a reliable Internet connection while installing, I recommend hitting that checkmark so you can have the new and shiny as soon as Pop!\_OS is finished installing.
-
-![Preparing to Install](/images/install-pop-os/preparing-to-install.jpg)
-
 Next is probably the most important stage in installing Pop!\_OS, as this is the screen where you can do the most damage if you don't know what you're doing. You'll see a few different options for how you can install Pop!\_OS here.
 
 So here is what you need to know. If you already have another operating system installed (like Windows or MacOS) and you don't want to get rid of it - select the "Install Alongside option" (pictured below):
-
-![Install Pop!\_OS Alongside Another Operating System](/images/install-pop-os/alongside-install.jpg)
-
-If you are prepared to erase everything that is on your computer currently. I repeat, this option **WILL ERASE EVERYTHING** on your hard drive. You can choose "Erase disk and install Pop!\_OS" for a fresh install (pictured below).
 
 ![Install and Erase Disk](/images/install-pop-os/erase-install.jpg)
 
 To finish this part up, it will ask you to confirm that you want to make changes to your hard disk (hard drive). If you are okay to do this, then hit "Continue". If you want to check or change something, you can click "Go Back".
 
 ![Continue or Go Back](/images/install-pop-os/write-changes.jpg)
-
-Only a few things left, the installer will ask where you are. Usually, it will detect where you are at in the world. This is used for timezones and what mirrors are used, so you don't have to get the exact town you life in, but choose one in your timezone.
-
-![Where are you?](/images/install-pop-os/where-are-you.jpg)
-
-Finally choose your keyboard layout from the list provided:
-
-![Choose Keyboard Layout](/images/install-pop-os/keyboard-layout.jpg)
 
 Then Pop!\_OS should start installing!
 
