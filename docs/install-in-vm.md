@@ -18,7 +18,7 @@ Once you have that accomplished run VirtualBox.
 This is the initial screen of VirtualBox after freshly installing on your OS.  Click on the "New" button on the top left corner.  It should be clearly marked with a colorful blue icon.
 
 ### Step 2
-![Name the VM](/images/install-in-a-vm/Create_VM_name..png)
+![Name the VM](/images/install-in-a-vm/Create_VM_name.png)
 
 Once you click on the new, button you should have the screen where you can name the VM and what kind of operating system.  We use Pop!_OS, of course, but you can use whatever you like.  Set your type to "Linux" and the version to "Ubuntu (64 bit)".  Your screen should look like the screenshot above.  Click "Next" button to move to the next screen.
 
