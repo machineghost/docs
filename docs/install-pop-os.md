@@ -9,9 +9,7 @@ Requirements: At the time of this writing Pop!\_OS only runs on 64-bit x86 archi
 
 ## Download Installation Media
 
-In order to install Pop!\_OS, we must first download the .iso image, this is a disk image with the operating system and installer on it. You can download [Pop!\_OS here](http://pop.system76.com), just click the "GET IT POPPIN" button (picture below) and the download should begin!
-
-![Pop!_OS Download Button](/images/install-pop-os/pop-download-button.png)
+In order to install Pop!\_OS, we must first download the .iso image, this is a disk image with the operating system and installer on it. You can download [Pop!\_OS here](http://pop.system76.com), just click the link and the download should begin!
 
 ## Make Bootable drive
 
