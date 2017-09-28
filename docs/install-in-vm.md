@@ -63,8 +63,13 @@ In order to run, it needs a startup disk, in this case the Pop!_OS iso file that
 
 ![Select the ISO image](/images/install-in-a-vm/select_diskfile_dialog.png)
 
-Go to your Downloads area and select the ISO image you downloaded and click "Start".
+Go to your Downloads area and select the ISO image you downloaded and click "Open".
 
-That's it!  You're done!  Please give us feedback on how Pop!_OS is working for you!
+### step 10
 
+![Ready to run](/images/install-in-a-vm/ready_to_run.png)
+
+Click on the Start button on the toolbar. It is the icon with the green arrow.
+
+That's it!  You're done!  Visit our [Pop!_OS page](http://pop.system76.com/) and please give us feedback on how Pop!_OS is working for you!
 
