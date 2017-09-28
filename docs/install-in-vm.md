@@ -67,7 +67,7 @@ Go to your Downloads area and select the ISO image you downloaded and click "Ope
 
 ### step 10
 
-![Ready to run](/images/install-in-a-vm/ready_to_run.png)
+![Ready to run](/images/install-in-a-vm/Feady_to_run.png)
 
 Click on the Start button on the toolbar. It is the icon with the green arrow.
 
