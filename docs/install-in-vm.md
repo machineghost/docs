@@ -40,7 +40,7 @@ You can accept the default value here as well and click on the "Next" button.
 ### Step 6
 ![Select Allocation Type](/images/install-in-a-vm/storage_allocation_type.png)
 
-This dialog tells you how you want to grow the disk as you put content on it.  The default is the correct answer here as you don't really want to allocate space that you will actual use.  Click on the "Next" button to the next screen.
+This dialog tells you how you want to grow the disk as you put content on it.  The default is the correct answer here as you don't really want to allocate space that you will not actually use.  Click on the "Next" button to the next screen.
 
 ### Step 7
 
