@@ -77,7 +77,6 @@ sudo apt install -y autoconf automake inkscape libgdk-pixbuf2.0-dev \
 3. Build and install system-wide:
 
 ```
-./autogen.sh \
 make
 sudo make install
 ```
