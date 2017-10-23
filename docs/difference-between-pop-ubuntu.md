@@ -1,6 +1,6 @@
 ---
-title: Difference Between Pop!\_OS and Ubuntu
-description: Learn what makes Pop!\_OS different from Ubuntu
+title: Differences Between Pop!_OS and Ubuntu
+description: Learn what makes Pop!_OS different from Ubuntu
 ---
 
 # What's the difference between Pop!\_OS and Ubuntu?
