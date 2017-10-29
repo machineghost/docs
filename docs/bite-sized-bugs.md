@@ -35,7 +35,7 @@ If we are going to fix this problem, we have to pull down the source code. So le
 
 ![Fork Button](/images/bite-sized-bugs/fork-me.png)
 
-One you have forked the project, you should have a copy in your own GitHub account (if you don't already have an account, you'll have to create one).
+Once you have forked the project, you should have a copy in your own GitHub account (if you don't already have an account, you'll have to create one).
 
 ![Your Very Own Fork](/images/bite-sized-bugs/my-very-own-fork.png)
 
@@ -51,7 +51,7 @@ Once you have copied the link in the clone box, run the following command(shown 
 
 `git clone https://github.com/ryanleesipes/pop-default-settings.git`
 
-Enter any information requested (with HTTPS it should just be your GitHub username and password). Following that it should download the files for the project and put the in a folder in the directory you are sitting in within your terminal.
+Enter any information requested (with HTTPS it should just be your GitHub username and password). Following that it should download the files for the project and put them in a folder in the directory you are currently sitting in within your terminal.
 
 ![Cloning the repo](/images/bite-sized-bugs/git-clone.png)
 
