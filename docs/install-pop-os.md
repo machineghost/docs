@@ -63,7 +63,7 @@ Next is probably the most important stage in installing Pop!\_OS, as this is the
 
 So here is what you need to know. If you already have another operating system installed (like Windows or MacOS) and you don't want to get rid of it - select the "Install Alongside option" (pictured below):
 
-![Install and Erase Disk](/images/install-pop-os/erase-install.jpg)
+![Install alongside existing OS](/images/install-pop-os/alongside-install.jpg)
 
 To finish this part up, it will ask you to confirm that you want to make changes to your hard disk (hard drive). If you are okay to do this, then hit "Continue". If you want to check or change something, you can click "Go Back".
 
