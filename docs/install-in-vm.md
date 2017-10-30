@@ -25,7 +25,7 @@ Once you click on the new, button you should have the screen where you can name 
 ### Step 3
 ![Memory Size](/images/install-in-a-vm/set_memory.png)
 
-Set the memoroy to 2048 MB.  The default value of 1024 MB is not enough to run Ubuntu and you will have problems.  You can of course set it to as high as you like.  Click "Next" button to the next screen.
+Set the memory to 2048 MB.  The default value of 1024 MB is not enough to run Ubuntu and you will have problems.  You can of course set it to as high as you like.  Click "Next" button to the next screen.
 
 ### Step 4
 ![Hard Disk](/images/install-in-a-vm/create_hard_disk.png)
@@ -60,10 +60,16 @@ You should be all ready to run!  Hit the "Start" button, the green arrow on the 
 
 In order to run, it needs a startup disk, in this case the Pop!_OS iso file that you downloaded and probably in your Downloads directory.  Using the above dialog, click on the little icon with the folder and the green up arrow.
 
-![Select the ISO image](/images/install-in-a-vm/select_disk_file_dialog.png)
 
-Go to your Downloads area and select the ISO image you downloaded and click "Start".
+![Select the ISO image](/images/install-in-a-vm/select_diskfile_dialog.png)
 
-That's it!  You're done!  Please give us feedback on how Pop!_OS is working for you!
+Go to your Downloads area and select the ISO image you downloaded and click "Open".
 
+### step 10
+
+![Ready to run](/images/install-in-a-vm/Ready_to_run.png)
+
+Click on the Start button on the toolbar. It is the icon with the green arrow.
+
+That's it!  You're done!  Visit our [Pop!_OS page](http://pop.system76.com/) and please give us feedback on how Pop!_OS is working for you!
 
