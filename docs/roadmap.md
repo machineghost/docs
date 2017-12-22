@@ -10,7 +10,6 @@ The 18.04 release is scheduled for April 26th, 2017. This is the second Pop!\_OS
 To see how features will be chosen for future releases, visit [pop.system76.com/docs/pop-os-development-approach/](/docs/pop-os-development-approach/)
 
 ---
-## Pop!\_OS 18.04
 
 ## Installation
 
@@ -50,29 +49,30 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 * Patch GNOME Calendar and GNOME Contacts for the new providers
 
 ---
-## Pop!\_OS 17.10
+
+**Pop!\_OS 17.10**
 
 17.10 was released October 19th, 2017. It is the current release. Struck through work was compelted. This is the first Pop!\_OS release and focuses on first use experience, appearance, and default applications.
 
-## Installation
+*Installation*
 
 * ~~Add a feature to Ubiquity to toggle between "minimal" and "complete" Ubiquity. Pop!\_OS will use minimal while other Ubuntu flavors can use the complete.~~ Paired down Ubiquity to a minimal set of screens and packaged seprarately.
 * ~~Use GNOME Initial Setup for user configuration~~
 * ~~Add nvidia driver to the installation media~~
 
-## Appearance
+*Appearance*
 
 * ~~Plymouth work for smooth and beautiful boot to login transitions~~
 * ~~Pop!\_Theme refinement~~
 * GDM Theme (canceled)
 
-## GNOME Online Accounts
+*GNOME Online Accounts*
 
 * Add additional providers to GNOME Initial Setup (incomplete)
 * Add CalDav and CardDav providers (incomplete)
 * Patch GNOME Calendar and GNOME Contacts for the new providers (incomplete)
 
-## Determine Default applications
+*Determine Default applications*
 
 * ~~Choose an email client for the initial release~~
 * ~~Determine pre-installed applications~~
