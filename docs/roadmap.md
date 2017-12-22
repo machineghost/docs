@@ -31,8 +31,9 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 
 * Installs the System76-Driver on installation
 
-## Performance profiles for battery life (Display in the system menu)
+## Performance profiles for battery life
 
+* Display in the system menu
 * Only when a battery is detected
 * Check GNOME extensions “CPU Power Manager” suggested
 
