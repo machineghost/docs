@@ -25,6 +25,7 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 * Setup a server for curated apps
 * Determine best-of-class applications and tools for each category
 * Button to launch applications after installing
+* Propose - buttons to launch and un-install apps on the Updates tab
 * Fix issue - applications are listed in reverse order (https://github.com/pop-os/shop/issues/7)
 
 ## System76 Hardware Recognition
