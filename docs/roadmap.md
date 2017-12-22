@@ -1,27 +1,47 @@
 ---
 title: Roadmap
 description: >
-  Focus and features for the first release!
+  Focus and features for each release!
 ---
 # Pop!\_OS Roadmap
 
-The 17.10 release is scheduled for October 19th, 2017. This is the first Pop!\_OS release and focuses on first use experience, appearance, and default applications.
+The 18.04 release is scheduled for April 26th, 2017. This is the second Pop!\_OS release and focuses on encrypted installations, Pop!\_Shop, and a quality experience.
 
 To see how features will be chosen for future releases, visit [pop.system76.com/docs/pop-os-development-approach/](/docs/pop-os-development-approach/)
 
 ---
+## Pop!\_OS 18.04
 
 ## Installation
 
-* Add a feature to Ubiquity to toggle between "minimal" and "complete" Ubiquity. Pop!\_OS will use minimal while other Ubuntu flavors can use the complete.
-* Use GNOME Initial Setup for user configuration
-* Add nvidia driver to the installation media
+Develop a simple and fast installer that introduces users to Pop!\_OS and enables System76 to ship full disk encryption on hardware out of the box.
 
-## Appearance
+* Installer backend (https://github.com/pop-os/distinst)
+* Installer frontend (https://github.com/pop-os/installer)
+* GNOME Intial Setup (https://github.com/pop-os/gnome-initial-setup)
 
-* Plymouth work for smooth and beautiful boot to login transitions
-* Pop!\_Theme refinement
-* GDM Theme
+## Pop!\_Shop
+
+* Add Pop!\_OS banner to the home page
+* Setup a server for curated apps
+* Determine best-of-class applications and tools for each category
+* Button to launch applications after installing
+* Fix issue - applications are listed in reverse order (https://github.com/pop-os/shop/issues/7)
+
+## System76 Hardware Recognition
+
+* Installs the System76-Driver on installation
+
+## Performance profiles for battery life (Display in the system menu)
+
+* Only when a battery is detected
+* Check GNOME extensions “CPU Power Manager” suggested
+
+## HiDPI Displays
+
+* Package the system76-driver HiDPI daemon separately for Pop!\_OS (https://github.com/pop-os/pop/issues/98)
+* Create a setting toggle in GNOME Settings Display (https://github.com/pop-os/pop/issues/97)
+* Correct the projector shortcut issue (https://github.com/pop-os/pop/issues/96)
 
 ## GNOME Online Accounts
 
@@ -29,7 +49,30 @@ To see how features will be chosen for future releases, visit [pop.system76.com/
 * Add CalDav and CardDav providers
 * Patch GNOME Calendar and GNOME Contacts for the new providers
 
+---
+## Pop!\_OS 17.10
+
+17.10 was released October 19th, 2017. It is the current release. Struck through work was compelted. This is the first Pop!\_OS release and focuses on first use experience, appearance, and default applications.
+
+## Installation
+
+* ~~Add a feature to Ubiquity to toggle between "minimal" and "complete" Ubiquity. Pop!\_OS will use minimal while other Ubuntu flavors can use the complete.~~ Paired down Ubiquity to a minimal set of screens and packaged seprarately.
+* ~~Use GNOME Initial Setup for user configuration~~
+* ~~Add nvidia driver to the installation media~~
+
+## Appearance
+
+* ~~Plymouth work for smooth and beautiful boot to login transitions~~
+* ~~Pop!\_Theme refinement~~
+* GDM Theme (canceled)
+
+## GNOME Online Accounts
+
+* Add additional providers to GNOME Initial Setup (incomplete)
+* Add CalDav and CardDav providers (incomplete)
+* Patch GNOME Calendar and GNOME Contacts for the new providers (incomplete)
+
 ## Determine Default applications
 
-* Choose an email client for the initial release
-* Determine pre-installed applications
+* ~~Choose an email client for the initial release~~
+* ~~Determine pre-installed applications~~
