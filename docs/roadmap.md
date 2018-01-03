@@ -5,7 +5,7 @@ description: >
 ---
 # Pop!\_OS Roadmap
 
-The 18.04 release is scheduled for April 26th, 2017. This is the second Pop!\_OS release and focuses on encrypted installations, Pop!\_Shop, and a quality experience.
+The 18.04 release is scheduled for April 26th, 2018. This is the second Pop!\_OS release and focuses on encrypted installations, Pop!\_Shop, and a quality experience.
 
 To see how features will be chosen for future releases, visit [pop.system76.com/docs/pop-os-development-approach/](/docs/pop-os-development-approach/)
 
