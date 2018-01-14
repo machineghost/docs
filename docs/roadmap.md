@@ -54,7 +54,7 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 
 **Pop!\_OS 17.10**
 
-17.10 was released October 19th, 2017. It is the current release. Struck through work was compelted. This is the first Pop!\_OS release and focuses on first use experience, appearance, and default applications.
+17.10 was released October 19th, 2017. It is the current release. Struck through work was completed. This is the first Pop!\_OS release and focuses on first use experience, appearance, and default applications.
 
 *Installation*
 
