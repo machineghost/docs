@@ -66,7 +66,7 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 
 * ~~Plymouth work for smooth and beautiful boot to login transitions~~
 * ~~Pop!\_Theme refinement~~
-* GDM Theme (canceled)
+* ~~GDM Theme~~
 
 *GNOME Online Accounts*
 
