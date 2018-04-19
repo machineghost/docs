@@ -88,10 +88,6 @@ Initial Setup for both first user and additional user setup. This means there
 are fewer paths to an installed system which reduces the load for testing as
 well as the opportunities for bugs.
 
-GNOME Online Accounts and GNOME Initial Setup in Pop!\_OS have also been
-modified to add additional account providers including CalDav and CardDav for
-better calendar and contacts integration in the OS.
-
 Ubuntu comes with one version and requires the manual installation of NVIDIA
 drivers and tools after the fact for NVIDIA systems. Ubuntu also uses the
 Ubiquity installer for first user setup instead of GNOME Initial Setup.
