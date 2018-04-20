@@ -9,8 +9,7 @@ can do without having to commit to installing it somewhere.
 
 First things first. Please ensure that you have:
 - Downloaded the [Pop!_OS ISO](https://system76.com/pop)
-- Installed the VirtualBox package on your favorite Linux based
-OS and the guest OS extensions.
+- Installed the VirtualBox package on your favorite Linux based OS and the guest OS extensions.
 
 Once you have that accomplished run VirtualBox.
 
