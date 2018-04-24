@@ -41,7 +41,7 @@ Select the partition on which you want to install Pop!\_OS. Choose "Use partitio
 
 ## Erase and install
 
-Once you have your partition(s) selected, select the red "Erase and Install" button. This will apply your changes and begin the installation. When you restart your device after installing, it should automatically boot into Pop!\_OS. To boot your other OS:
+Once you have your partition(s) selected, select the red "Erase and Install" button. This will apply your changes and begin the installation. When you restart your device after installing, it should automatically boot into Pop!\_OS where you can set up your user. Note that on BIOS installs, the Pop!\_OS entry may read "Ubuntu". To boot your other OS:
 
 - If your device is in EFI mode, hold the spacebar while powering it on.
 - If your device is in BIOS mode, a menu will automatically appear when powering on.
@@ -51,3 +51,4 @@ Choose your previous OS with the arrow keys, then press Enter.
 ## Windows Caveats
 
 Windows 8 and later uses a "Fast Startup" setting which prevents Windows from fully shutting down and allowing other OSes to use the disk. Before you can properly dual boot with Windows, you must [disable this setting in Windows](https://superuser.com/a/1152002/457793).
+
