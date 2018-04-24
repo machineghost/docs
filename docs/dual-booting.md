@@ -15,11 +15,15 @@ If you don't have an available partition, you can create one using the "Modify P
 
 ![Modify Partitions](/images/dual-booting/modify.png)
 
+First, make sure you Select the correct drive in the top-right of GParted.
+
 ![GParted](/images/dual-booting/gparted.png)
+
+Right-click the desired partition and select "Resize/Move". Resize the partition down to make room for a Pop!\_OS partition, then select the "Resize/Move" button.
 
 ![Resize](/images/dual-booting/gparted-resize.png)
 
-Select the correct drive in the top-right of GParted, then right-click the desired partition and select "Resize/Move". Resize the partition down to make room for a Pop!\_OS partition, then select the "Resize/Move" button. Right-click the new "unallocated" space and select "New". Choose the filesystem you want (if unsure, keep the default ext4), then select the "Add" button.
+ Right-click the new "unallocated" space and select "New". Choose the filesystem you want (if unsure, keep the default ext4), then select the "Add" button.
 
 ![Add](/images/dual-booting/gparted-add.png)
 
