@@ -24,13 +24,11 @@ Pop!\_OS 18.04 LTS brings new features and capabilties to the desktop. With the 
 
 Additional new features and improvements include:
 
-- Simple recovery. You can re-install the OS without downloading and writing to a flash drive. On UEFI systems, simply boot to the Pop!\_OS Recovery entry. (New 18.04 install required. Legacy BIOS systems are not supported)
+- Simple recovery. You can re-install the OS without downloading and writing to a flash drive. On UEFI systems, simply boot to the Pop!\_OS Recovery entry by holding down escape during boot. (New 18.04 install required. Legacy BIOS systems are not supported)
 - Do Not Disturb mode quiets notifications for those times you want to focus on your work.
 - Power profile picker in the user menu easily toggles between maximum, balanced, and battery saver modes.
 - NVIDIA Optimus is built into the user menu for switching between nvidia performance or long battery life with Intel graphics (Optimus is coming to future system76 products!)
-  Activities overview
 - Pop! artwork in Pop!\_Shop and new curated apps including Atom, Slack, Spotify, and many more
-  more about and uninstall apps from the dash and app spread
 - USB Flasher utility to create multiple startup drives
 - The GRUB bootloader is replaced with the systemd-boot bootloader and an automatic systemd-boot configuration tool we've created: kernelstub
 
