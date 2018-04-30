@@ -1,6 +1,6 @@
 ---
-title: Install Pop!\_OS
-description: How to install Pop!\_OS
+title: Install Pop!_OS
+description: How to install Pop!_OS
 ---
 
 
