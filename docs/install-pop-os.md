@@ -10,7 +10,7 @@ Requirements: At the time of this writing Pop!\_OS only runs on 64-bit x86 archi
 
 ## Make Bootable Drive
 
-Please see our instructions for making and booting from a live disk of Pop!\_OS [here](/articles/live-disk/).
+Please see our instructions for making and booting from a live disk of Pop!\_OS [here](http://support.system76.com/articles/live-disk/).
 
 ## Installing Pop!\_OS
 
