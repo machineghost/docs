@@ -58,11 +58,11 @@ Dual-booting alongside Windows takes a little more effort due to some quirks wit
 
 Windows 8 and later uses a "Fast Startup" setting which prevents Windows from fully shutting down and allowing other OSes to use the disk. Before you can properly dual boot with Windows, you must disable this setting in Windows.
 
-In your Windows install, open Control Panel and head to "Power Options". Select "Choose what the power buttons do", select "Change settings that are currently unavailable", then disable the "fast startup" setting. Note that Windows updates may occasionally turn this setting back on without asking, so if you are unable to boot into %s, check this setting first.
+In your Windows install, open Control Panel and head to "Power Options". Select "Choose what the power buttons do", select "Change settings that are currently unavailable", then disable the "fast startup" setting. Note that Windows updates may occasionally turn this setting back on without asking, so if you are unable to boot into Pop!\_OS, check this setting first.
 
 ## Create Partitions
 
-Use the "Modify Partitions…" button to open GParted, then select the wanted drive in the top-right of GParted. Resize the desired partition down to make room for a %s partition. If your device is in EFI mode, create a new 512 MB FAT32 partition at the beginning of the unused space to be used as a Boot (/boot/efi) partition. Create a 4 GB swap partition at the end of the unused space. Create a partition from the the remaining space to be used as Root (/).
+Use the "Modify Partitions…" button to open GParted, then select the wanted drive in the top-right of GParted. Resize the desired partition down to make room for a Pop!\_OS partition. If your device is in EFI mode, create a new 512 MB FAT32 partition at the beginning of the unused space to be used as a Boot (/boot/efi) partition. Create a 4 GB swap partition at the end of the unused space. Create a partition from the the remaining space to be used as Root (/).
 
 When you're ready, select the "Apply All Operations" icon at the end of the toolbar. Once the process is complete, close the GParted window and the installer will update with your changes.
 
@@ -72,7 +72,7 @@ Select the new FAT32 partition, choose "Use partition", and select "Use as Boot 
 
 ## Erase and Install
 
-Once you have your partitions selected, select the red "Erase and Install" button. This will apply your changes and begin the installation. When you restart your device after installing, it should automatically boot into %s where you can set up your user. Note that on BIOS installs, the %s entry may read "Ubuntu". To boot your other OS:
+Once you have your partitions selected, select the red "Erase and Install" button. This will apply your changes and begin the installation. When you restart your device after installing, it should automatically boot into Pop!\_OS where you can set up your user. Note that on BIOS installs, the Pop!\_OS entry may read "Ubuntu". To boot your other OS:
 
 • If your device is in EFI mode, use your device's built-in boot menu.
 • If your device is in BIOS mode, a menu will automatically appear when powering on.
