@@ -74,8 +74,8 @@ Select the new FAT32 partition, choose "Use partition", and select "Use as Boot 
 
 Once you have your partitions selected, select the red "Erase and Install" button. This will apply your changes and begin the installation. When you restart your device after installing, it should automatically boot into Pop!\_OS where you can set up your user. Note that on BIOS installs, the Pop!\_OS entry may read "Ubuntu". To boot your other OS:
 
-• If your device is in EFI mode, use your device's built-in boot menu.
-• If your device is in BIOS mode, a menu will automatically appear when powering on.
+- If your device is in EFI mode, use your device's built-in boot menu.
+- If your device is in BIOS mode, a menu will automatically appear when powering on.
 
 Choose your previous OS with the arrow keys, then press Enter.
 
