@@ -29,8 +29,6 @@ When you're ready, select the "Apply All Operations" icon at the end of the tool
 
 ## Choose Partitions
 
-![Root](/images/dual-booting/choose-partition.png)
-
 Select the new FAT32 partition, choose "Use partition", and select "Use as Boot (/boot/efi)". Select the new partition you created for the root, choose "Use partition", and select "Use as Root (/)". Select the new Swap partition, choose "Use partition", and select "Use as Swap".
 
 ![EFI](/images/dual-booting/efi.png)
