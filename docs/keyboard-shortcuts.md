@@ -61,7 +61,6 @@ the action, too.
 | <kbd>Super</kbd> + <kbd>V</kbd> | Calendar and notifications indicator |
 | <kbd>Super</kbd> + <kbd>N</kbd> | Focus active notification |
 | <kbd>Super</kbd> + <kbd>T</kbd> | Terminal |
-| <kbd>Super</kbd> + <kbd>F</kbd> | Files |
 | <kbd>Super</kbd> + <kbd>M</kbd> | Application menu |
 | <kbd>Super</kbd> + <kbd>Space</kbd> | Switch input source |
 | <kbd>Alt</kbd> + <kbd>F2</kbd> | Run command |
