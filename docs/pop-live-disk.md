@@ -25,13 +25,13 @@ Pop!_OS is remarkably flexible. You can run a full version of Pop!_OS from a USB
 - [Determining if an issue is caused by hardware or software](/articles/hardware-failure/)
 - [Fixing the boot loader](/articles/grub/)
 
-A live disk is a handy tool to have around!
+A live disk is a handy tool to have around! If you are running Pop!_OS 18.04 then you have a recovery partition which is just like a live disk. You can access this by rebooting your laptop/desktop and tapping the ESC or Space key. Then there is a menu entry called 'Pop!_OS Recovery', choose that with the arrow keys and then press enter.
 
 ## Make Bootable drive
 
-In order to install Pop!_OS, we must first download the .iso image, this is a disk image with the operating system and installer on it. You can download [Pop!_OS here](http://pop.system76.com), just click the link and the download should begin!
+In order to install Pop!_OS, first download the .iso image, this is a disk image with the operating system and installer on it. The download for [Pop!_OS here](http://pop.system76.com), just click the link and the download should begin!
 
-In order to make a live disk of Pop!_OS you must have a bootable flash drive. You'll need a flash drive, of course, and software to write the Pop!_OS .iso image to the drive. There's a variety of applications you can use to write disk images to a flash drive, but for this tutorial we'll use Popsicle.
+You'll need a flash drive, of course, and software to write the Pop!_OS .iso image to the drive. There's a variety of applications you can use to write disk images to a flash drive, but for this tutorial you'll use Popsicle.
 
 Popsicle is an open source app for Linux that allows you to "burn images to USB drives safely and easily", it is installed in Pop!_OS 18.04 and up. If you are running Pop!_OS 17.10 you can install it like so in a terminal:
 
