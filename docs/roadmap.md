@@ -30,7 +30,7 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 
 ## System76 Hardware Recognition
 
-* Installs the System76-Driver on installation
+* ~~Installs the System76-Driver on installation~~
 
 ## Performance profiles for battery life
 
