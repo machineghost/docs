@@ -15,18 +15,18 @@ To see how features will be chosen for future releases, visit [pop.system76.com/
 
 Develop a simple and fast installer that introduces users to Pop!\_OS and enables System76 to ship full disk encryption on hardware out of the box.
 
-* Installer backend (https://github.com/pop-os/distinst)
-* Installer frontend (https://github.com/pop-os/installer)
-* GNOME Intial Setup (https://github.com/pop-os/gnome-initial-setup)
+* ~~Installer backend (https://github.com/pop-os/distinst)~~
+* ~~Installer frontend (https://github.com/pop-os/installer)~~
+* ~~GNOME Intial Setup (https://github.com/pop-os/gnome-initial-setup)~~
 
 ## Pop!\_Shop
 
-* Add Pop!\_OS banner to the home page
-* Setup a server for curated apps
+* ~~Add Pop!\_OS banner to the home page~~
+* ~~Setup a server for curated apps~~
 * Determine best-of-class applications and tools for each category
 * Button to launch applications after installing
 * Propose - buttons to launch and un-install apps on the Updates tab
-* Fix issue - applications are listed in reverse order (https://github.com/pop-os/shop/issues/7)
+* ~~Fix issue - applications are listed in reverse order (https://github.com/pop-os/shop/issues/7)~~
 
 ## System76 Hardware Recognition
 
@@ -34,14 +34,14 @@ Develop a simple and fast installer that introduces users to Pop!\_OS and enable
 
 ## Performance profiles for battery life
 
-* Display in the system menu
-* Only when a battery is detected
+* ~~Display in the system menu~~
+* ~~Only when a battery is detected~~
 * Check GNOME extensions “CPU Power Manager” suggested
 
 ## HiDPI Displays
 
-* Package the system76-driver HiDPI daemon separately for Pop!\_OS (https://github.com/pop-os/pop/issues/98)
-* Create a setting toggle in GNOME Settings Display (https://github.com/pop-os/pop/issues/97)
+* ~~Package the system76-driver HiDPI daemon separately for Pop!\_OS (https://github.com/pop-os/pop/issues/98)~~
+* ~~Create a setting toggle in GNOME Settings Display (https://github.com/pop-os/pop/issues/97)~~
 * Correct the projector shortcut issue (https://github.com/pop-os/pop/issues/96)
 
 ## GNOME Online Accounts
