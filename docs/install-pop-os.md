@@ -34,7 +34,7 @@ We can select to erase the currently install OS(s) and install Pop!\_OS on the s
 
 ![Encrypt option](/images/install-pop/5_encrypt_notice.png)
 
-You can choose to encrypt your drive or to no encrypt your drive. If you would like to encrypt the drive then push the "Choose Password" button, if you don't want to encrypt you push the "Don't Encrypt" button:
+You can choose to encrypt your drive or not to encrypt your drive. If you would like to encrypt the drive then push the "Choose Password" button, if you don't want to encrypt you push the "Don't Encrypt" button:
 
 ![Encrypt password](/images/install-pop/6_encrypt_password.png)
 
