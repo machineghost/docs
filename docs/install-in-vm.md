@@ -47,7 +47,7 @@ This dialog tells you how you want to grow the disk as you put content on it.  T
 
 ![Storage Device Name](/images/install-in-a-vm/disk_storage_size.png)
 
-Feel free to just pick the defaults here and click on the "Create" button.
+You have to select at least 15 GB, as the default 10 GB are too small. Then click on the "Create" button.
 
 ### Step 8
 
