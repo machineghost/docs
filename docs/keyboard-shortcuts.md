@@ -8,7 +8,7 @@ description: Learn how master using Pop!_OS with your keyboard
 <!-- TODO: Add Pop! key when that starts shipping -->
 
 <kbd>Super</kbd> is the OS key on your keyboard; if you're using a System76
-computer, it's the <kbd><span class="fl-ubuntu"></span></kbd>/<kbd><span class="fl-pop-key"></span></kbd> key. On a computer that came with Windows, it's the Windows key. On a Mac, it's the Command key.
+computer, it's the Ubuntu or Pop!_OS key. On a computer that came with Windows, it's the Windows key. On a Mac, it's the Command key.
 
 In Pop!\_OS, <kbd>Super</kbd> handles the majority of OS and window actions.
 
