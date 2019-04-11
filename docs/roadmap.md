@@ -5,7 +5,7 @@ description: >
 ---
 # Pop!_OS Roadmap
 
-This road map details features which are currently-planned to be implemented in Pop!_OS, as well
+This roadmap details features which are currently-planned to be implemented in Pop!_OS, as well
 as major features which were added to Pop!_OS during previous release cycles. Only features
 specific to Pop!_OS will be listed here. To see how features are chosen, see the
 [Pop!_OS Development Approach page](/docs/pop-os-development-approach/).
