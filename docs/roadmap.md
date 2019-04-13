@@ -43,7 +43,6 @@ on release for 19.04.
 * Enabling Wayland support for the installer
 * Support for exotic LUKS and LVM combinations
 * LVM snapshotting support
-* Support for special features in ZFS
 * Support for ZFS and its special features
 
 ### System76 Power
