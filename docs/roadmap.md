@@ -110,7 +110,7 @@ The following packages were added / updated during this release.
   * UI is now more responsive than before, so the chance of the UI hanging is now impossible.
 * A bug was fixed that would cause systems with card readers to indefinitely hang.
 
-#### Refresh OS Installations
+### Refresh OS Installations
 
 Two features have been developed during this cycle: "Refresh" and "Alongside OS" installation
 options. The refresh feature was the first to be complete, providing the ability to retain
