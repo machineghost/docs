@@ -27,8 +27,6 @@ description: >
    * Make external media immediately useful
    
 6. When there is no clear app for a universal need, surface options in the app store
-
-   * If no email client provides the quality and integration we need, surface options in the store
    
 7. Do not duplicate functionality
 
