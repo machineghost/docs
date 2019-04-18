@@ -46,7 +46,7 @@ Pop!_OS includes a selection of apps intended to be comprehensive, but relativel
 
 ## Features across the board 
 
-![Power Profiles/Graphics toggle](/images/difference-between-pop-ubuntu/Graphics-Switching.mp4)
+![Power Profiles/Graphics toggle](/images/difference-between-pop-ubuntu/system-menu.png)
 
 Pop!_OS is built from Ubuntu repositories, meaning you get the same access to software as Ubuntu. Based on both user feedback and in-house testing, we continue to make changes and updates to the operating system for quality-of-life improvements. The best part is, updates are kept on a rolling release cycle, so you don’t have to wait around 6 months for bug fixes or improvements to your OS. While our [Roadmap](https://pop.system76.com/docs/roadmap/) offers a more extensive outline of these changes, we’ve highlighted some of our major improvements below:
 	• Vulkan drivers and libraries are installed by default to get the most out of your GPU’s performance. Selecting the NVIDIA version of Pop!_OS on install also downloads the NVIDIA drivers by default.
