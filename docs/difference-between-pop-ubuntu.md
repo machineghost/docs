@@ -23,7 +23,7 @@ While Pop!_OS is designed to be [easy to use](https://www.forbes.com/sites/jason
 
 The installer offers encryption out of the box and takes care of setting up your user preferences (language, keyboard layout, installation method). On first use, the installer also makes it easy to select your time zone and integrate any online accounts into your desktop.
 
-![Intel/AMD + NVIDIA](/images/difference-between-pop-ubuntu/Intel&AMD-NVIDIA.png)
+![Intel/AMD + NVIDIA](/images/difference-between-pop-ubuntu/Intel&AMD-NVIDIA-1904.png)
 
 Pop!_OS comes in two versions: Intel/AMD and NVIDIA. This allows us to include different settings and the proprietary NVIDIA driver for NVIDIA systems, ensuring the best performance and use of CUDA tools one command away. On Oryx Pro systems, you can even switch between Intel and Nvidia graphics using a toggle in the top right corner of your screen.
 
