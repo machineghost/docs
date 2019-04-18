@@ -3,110 +3,59 @@ title: Differences Between Pop!_OS and Ubuntu
 description: Learn what makes Pop!_OS different from Ubuntu
 ---
 
-# What's the difference between Pop!\_OS and Ubuntu?
-
-Pop!\_OS is built from the Ubuntu repositories (meaning you get the same access
-to software as Ubuntu), but it's not simply Ubuntu with some changes on top. The
-easiest way to see and feel the difference is to give both a try, but this doc
-will also give you a fairly expansive run down.
-
-We build Pop!\_OS with a philosophy of sticking to upstream decisions by
-default, but deviating when it provides a better experience for our customers
-and users. Our decisions around user experience are informed from over a decade
-of selling Linux computers and listening to our customers' feedback.
-
 [Learn about our development approach](http://pop.system76.com/docs/pop-os-development-approach/)
 
+# Pop!_OS and Ubuntu: What’s the difference?
 
-## Features
+Pop!_OS has evolved quite a bit since its 17.10 release. While the easiest way to tell the difference between the two is by testing them out, let’s dive into how we differentiate Pop_OS from Ubuntu.
 
-Pop!\_OS 18.04 LTS brings new features and capabilties to the desktop. With the new Pop!\_OS installer, System76 can ship laptops and desktops with full disk encryption out-of-the-box. A unique and private encryption key is generated during setup after you receive your computer. We’re also protecting your privacy in Pop!\_OS. No data is collected or stored from user installations. Only minimal OS and hardware version data is used to provide firmware and software updates and connectivity verification.
+[General look of desktop](/images/difference-between-pop-ubuntu/pop-desktop-screenshot.png)
 
-Additional new features and improvements include:
+## “Isn’t it just a re-skinned Ubuntu?”
+This is a common question to come up, and one that makes our engineers cringe. Yes, Pop!_OS has been designed with vibrant colors, a flat theme, and a clean desktop environment, but we created it to do so much more than just look pretty. (Although it does look very pretty.)
 
-- Simple recovery. You can re-install the OS without downloading and writing to a flash drive. On UEFI systems, simply boot to the Pop!\_OS Recovery entry by holding down escape during boot. (New 18.04 install required. Legacy BIOS systems are not supported)
-- Do Not Disturb mode quiets notifications for those times you want to focus on your work.
-- Power profile picker in the user menu easily toggles between maximum, balanced, and battery saver modes.
-- NVIDIA Optimus is built into the user menu for switching between nvidia performance or long battery life with Intel graphics (Optimus is coming to future system76 products!)
-- Pop! artwork in Pop!\_Shop and new curated apps including Atom, Slack, Spotify, and many more
-- USB Flasher utility to create multiple startup drives
-- The GRUB bootloader is replaced with the systemd-boot bootloader and an automatic systemd-boot configuration tool we've created: kernelstub
+To call it a re-skinned Ubuntu brushes over all of the features and quality-of-life improvements that Pop! developers work diligently to create. For an in-depth look at the effort and manpower that goes into updating and maintaining Pop!_OS, take a look at our Roadmap documentation and the This Week in Pop! series on Pop!_Planet. Below, you’ll find a general list of improvements that make Pop!_OS stand out.
 
+## First impressions: The Installer 
 
-## Look & Feel, Session, & Shell
+[Installer Images: Download screen](/images/difference-between-pop-ubuntu/Installer-Screenshot.png)
 
-Pop!\_OS uses the Pop! session, a custom GNOME-based session with our default
-settings and extensions included.
+While Pop!_OS is designed to be easy to use for Linux beginners, it’s also developed with the tech-savvy professional in mind. Pop!’s installer sets the tone for our philosophy behind the OS: to provide snappy functionality inside a desktop environment that promotes creative thinking.
 
-- Shell theme and GTK stylesheet: A refined, consistent look that is somewhat
-  flat while retaining light and shadow
-- Fonts: Fira Sans and Roboto Slab to match the Pop! and System76 look
-- Suspend button: Always show in the session menu (instead of requiring an extra
-  button press)
-- Always show workspaces: Don't auto-collapse the workspace switcher in the
-  Activities overview
-- Right-click to see application details in Pop!\_Shop: Let users quickly learn
-  more about and uninstall apps from the dash and app spread
-- Plymouth and GDM themes for a consistent look/feel
-- Hand-selected set of photographic and illustrative wallpapers for a consistent
-  look and feel
-- Battery indicator improved to display accurate charge levels
+The installer offers encryption out of the box and takes care of setting up your user preferences (language, keyboard layout, installation method). On first use, the installer also makes it easy to select your time zone and integrate any online accounts into your desktop.
 
-Ubuntu 17.10+, on the other hand, includes the Ubuntu session with their own
-theme and fonts, plus the "Ubuntu dock" which somewhat imitates the old Unity
-launcher.
+[Intel/AMD + NVIDIA](/images/difference-between-pop-ubuntu/Intel&AMD-NVIDIA.png)
 
+Pop!_OS comes in two versions: Intel/AMD and NVIDIA. This allows us to include different settings and the proprietary NVIDIA driver for NVIDIA systems, ensuring the best performance and use of CUDA tools one command away. On Oryx Pro systems, you can even switch between Intel and Nvidia graphics using a toggle in the top right corner of your screen.
 
-## Keyboard Shortcuts
+## Privacy
 
-We conducted a study of keyboard shortcuts in GNOME and Ubuntu, and derived a
-set that more consistently exposes some default behaviors like workspace and
-window management.
+[Encryption, in-progress screen](/images/difference-between-pop-ubuntu/Encryption-Screenshot.png)
 
-[See our keyboard shortcuts](http://pop.system76.com/docs/keyboard-shortcuts/)
+With encryption enabled by default, and reporting through Ubuntu disabled, Pop!_OS believes that your data should truly be yours. Communications with a third party does not occur by default, and will only occur with user consent.
 
+## Custom Keyboard Shortcuts
+After conducting a study of Ubuntu and GNOME keyboard shortcuts, we decided to make some shortcuts more efficient for common user behaviors. The shortcut for switching workspaces, for example, is Super + Arrow Up or Down.
+See all keyboard shortcuts
 
-## Included Apps
+## Default Apps: Slimming down on bloatware 
 
-Pop!\_OS includes a selection of apps intended to be comprehensive but
-relatively lightweight. We avoid "library" apps and instead opt for "viewers";
-for example, we don't ship a large photo library management app, but we do
-include an image viewer.
+[Pop Shop](/images/difference-between-pop-ubuntu/Pop!_Shop-Screenshot.png)
 
-[Learn more about our guiding
-principles](http://pop.system76.com/docs/default-apps/)
+Pop!_OS includes a selection of apps intended to be comprehensive, but relatively lightweight. Because Pop!_OS is optimized for your workflow, we avoid providing some larger programs by default that slow down your computer. This is especially true for library applications, such as one for storing your photos, which we opt to replace with image viewers or similar apps that are smaller in size. However, if you’re in need of a photo manager, Steam, or a music streaming app such as Spotify, these applications are still available in the Pop!_Shop for a quick install.
 
-- Eye of GNOME Image Viewer
-- Totem Video and Audio Player
-- LibreOffice Writer, Calc, and Impress to view, edit, and create docs,
-  spreadsheets, and presentations
-- Firefox Web Browser
-- Geary Email Client
-- GNOME Calendar
-- Evince Document Viewer
-- Pop!\_Shop app store
-- Eddy Debian installer
-- Popsicle USB Startup Disk Creator
+## Features across the board 
 
-Ubuntu includes a different set of preinstalled apps including GNOME Software,
-Rhythmbox, Remmina, Thunderbird, Shotwell, an Amazon affiliate search link, and
-several GNOME games.
+[Power Profiles/Graphics toggle](/images/difference-between-pop-ubuntu/Graphics-Switching.mp4)
 
+Pop!_OS is built from Ubuntu repositories, meaning you get the same access to software as Ubuntu. Based on both user feedback and in-house testing, we continue to make changes and updates to the operating system for quality-of-life improvements. The best part is, updates are kept on a rolling release cycle, so you don’t have to wait around 6 months for bug fixes or improvements to your OS. While our [Roadmap](https://pop.system76.com/docs/roadmap/) offers a more extensive outline of these changes, we’ve highlighted some of our major improvements below:
+	• Vulkan drivers and libraries are installed by default to get the most out of your GPU’s performance. Selecting the NVIDIA version of Pop!_OS on install also downloads the NVIDIA drivers by default.
+	• The power profile picker in the top right menu easily toggles between high performance, balanced, and battery saver modes. On the Oryx Pro, this is also where you’ll find the toggle for switching graphics between Intel and NVIDIA. While these features have been developed specifically for System76 products, they may likely still work on your hardware.
+	• For scientific workloads, installing [CUDA](https://support.system76.com/articles/cuda/) and [TensorFlow](https://support.system76.com/articles/install-tensorflow/) is made simple with a single command line.
+	[CUDA/Tensorflow command](/images/difference-between-pop-ubuntu/Tensorflow.png)
+	• Do Not Disturb mode silences notifications to help you focus on your work.
+	• systemd-boot bootloader and the automatic configuration tool we’ve created for it called kernelstub replace the outdated GRUB bootloader used on Ubuntu. The systemd-boot bootloader is faster and smaller in size, increasing your computer’s startup speed.
 
-## Installation and First Use
+## Recovery Partition
 
-Pop!\_OS 18.04 LTS adds a new Linux installer that is designed to make installations straightforward, reliable, secure and fast. The new installer enables System76 to ship full-disk encrypted computers with a unique and private encryption key for every computer.
-
-Pop!\_OS comes in two versions: Intel/AMD and NVIDIA. This allows us to
-pre-include different settings and the proprietary NVIDIA driver for NVIDIA
-systems, ensuring the best performance and use of CUDA tools right out of the
-box.
-
-Every Pop!\_OS installation uses an OEM-like install process, leaning on GNOME
-Initial Setup for both first user and additional user setup. This means there
-are fewer paths to an installed system which reduces the load for testing as
-well as the opportunities for bugs.
-
-Ubuntu comes with one version and requires the manual installation of NVIDIA
-drivers and tools after the fact for NVIDIA systems. Ubuntu also uses the
-Ubiquity installer for first user setup instead of GNOME Initial Setup.
+The recovery partition on this operating system is a full copy of the Pop!_OS installation disk. It can be used exactly the same as if a live disk copy of Pop!_OS was booted from a USB drive. The existing operating system can be repaired or reinstalled from the recovery mode. You can either do a refresh install, which allows you to reinstall without losing any user data or data in your Home folder, or opt to do a fresh install, which will essentially reset all OS data. Refresh Installs are only available on a fresh install of Pop!_OS 19.04.
