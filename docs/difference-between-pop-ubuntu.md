@@ -35,7 +35,7 @@ With encryption enabled by default, and reporting through Ubuntu disabled, Pop!_
 
 ## Custom Keyboard Shortcuts
 
-After conducting a study of Ubuntu and GNOME keyboard shortcuts, we decided to make some shortcuts more efficient for common user behaviors. The shortcut for switching workspaces, for example, is Super + Arrow Up or Down.
+After conducting a study of Ubuntu and GNOME keyboard shortcuts, we decided to make some shortcuts more efficient for common user behaviors. The shortcut for switching workspaces, for example, is <kbd>Super</kbd> + <kbd>Arrow</kbd> <kbd>Up</kbd> or <kbd>Down</kbd>.
 See all keyboard shortcuts
 
 ## Default Apps: Slimming down on bloatware 
