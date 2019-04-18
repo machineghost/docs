@@ -13,13 +13,13 @@ Pop!_OS has evolved quite a bit since its 17.10 release. While the easiest way t
 
 This is a common question to come up, and one that makes our engineers cringe. Yes, Pop!_OS has been designed with vibrant colors, a flat theme, and a clean desktop environment, but we created it to do so much more than just look pretty. (Although it does look very pretty.)
 
-To call it a re-skinned Ubuntu brushes over all of the features and quality-of-life improvements that Pop! developers work diligently to create. For an in-depth look at the effort and manpower that goes into updating and maintaining Pop!_OS, take a look at our Roadmap documentation and the This Week in Pop! series on Pop!_Planet. Below, you’ll find a general list of improvements that make Pop!_OS stand out.
+To call it a re-skinned Ubuntu brushes over all of the features and quality-of-life improvements that Pop! developers work diligently to create. For an in-depth look at the effort and manpower that goes into updating and maintaining Pop!_OS, take a look at our [Roadmap](https://pop.system76.com/docs/roadmap/) documentation and the [This Week in Pop!](https://pop-planet.info/forums/forums/project-updates.28/) series on [Pop!_Planet](https://pop-planet.info/). Below, you’ll find a general list of improvements that make Pop!_OS stand out.
 
 ## First impressions: The Installer 
 
 ![Installer Images: Download screen](/images/difference-between-pop-ubuntu/Installer-Screenshot.png)
 
-While Pop!_OS is designed to be easy to use for Linux beginners, it’s also developed with the tech-savvy professional in mind. Pop!’s installer sets the tone for our philosophy behind the OS: to provide snappy functionality inside a desktop environment that promotes creative thinking.
+While Pop!_OS is designed to be [easy to use](https://www.forbes.com/sites/jasonevangelho/2018/11/14/a-linux-noob-reviews-the-pop_os-installer-from-system76/#144a421310d4) for Linux beginners, it’s also developed with the tech-savvy professional in mind. Pop!’s installer sets the tone for our philosophy behind the OS: to provide snappy functionality inside a desktop environment that promotes creative thinking.
 
 The installer offers encryption out of the box and takes care of setting up your user preferences (language, keyboard layout, installation method). On first use, the installer also makes it easy to select your time zone and integrate any online accounts into your desktop.
 
@@ -36,7 +36,7 @@ With encryption enabled by default, and reporting through Ubuntu disabled, Pop!_
 ## Custom Keyboard Shortcuts
 
 After conducting a study of Ubuntu and GNOME keyboard shortcuts, we decided to make some shortcuts more efficient for common user behaviors. The shortcut for switching workspaces, for example, is <kbd>Super</kbd> + <kbd>Arrow</kbd> <kbd>Up</kbd> or <kbd>Down</kbd>.
-See all keyboard shortcuts
+[See all keyboard shortcuts](https://pop.system76.com/docs/keyboard-shortcuts/)
 
 ## Default Apps: Slimming down on bloatware 
 
