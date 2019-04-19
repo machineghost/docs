@@ -127,7 +127,7 @@ after.
 
 Due to the many issues experienced with Ubuntu's `do-release-upgade` script, a new project was
 started during this cycle to improve the reliability of release upgrades. This daemon is
-responsible for perform system repairs and preparing the system for a release upgrade.
+responsible for performing system repairs and preparing the system for a release upgrade.
 
 * Adds the ability to upgrade the recovery partition.
 * Adds the ability to perform a release upgrade offline with systemd and the recovery partition.
