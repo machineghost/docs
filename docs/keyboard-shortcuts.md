@@ -34,7 +34,7 @@ the action, too.
 | Shortcut | Action  | <kbd>Shift</kbd> Action |
 | -------- | --------- | ------ |
 | <kbd>Super</kbd> + <kbd>Tab</kbd> | Switch windows | Switch windows backwards |
-| <kbd>Super</kbd> + Above <kbd>Tab</kbd> | Switch windows of current app | Switch windows of current app backwards |
+| <kbd>Super</kbd> + <kbd>`</kbd> (Above <kbd>Tab</kbd>) | Switch windows of current app | Switch windows of current app backwards |
 | <kbd>Super</kbd> + <kbd>W</kbd> | Close window | |
 | <kbd>Super</kbd> + <kbd>H</kbd> | Hide window (minimize) | |
 | <kbd>Super</kbd> + <kbd>↑</kbd>/<kbd>↓</kbd> | Switch workspace up/down | Switch workspace up/down with window |
