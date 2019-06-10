@@ -64,7 +64,7 @@ the action, too.
 | <kbd>Super</kbd> + <kbd>Space</kbd> | Switch input source |
 | <kbd>Alt</kbd> + <kbd>F2</kbd> | Run command |
 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Del</kbd> | Log out |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>r</kbd> | Starts/Stops screen recording |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd> | Starts/Stops screen recording |
 
 #### Accessibility
 
