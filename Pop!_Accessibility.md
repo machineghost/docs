@@ -8,14 +8,14 @@ description: >
 
 Pop!_OS shares many of the same accessibility options as Gnome. These accessibility options allow for Pop!_OS to be used by as many people in the community as possible. If there are additional tools or options that you would like to see added to Pop!_OS in the future please let us know and we will see if implementation is possible. 
 
-Additional information can be found on Gnome accessibility web page [here](https://help.gnome.org/users/gnome-help/stable/a11y.html).
+Additional information can be found on GNOME accessibility web page [here](https://help.gnome.org/users/gnome-help/stable/a11y.html).
 
 ## Screen Readers
 For visual impairments [Orca](https://help.gnome.org/users/orca/stable/introduction.html.en) is a screen reading tool for low sighted and blind users.
 
 *Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via speech and refreshable braille.* 
 
-In Pop!_OS using the Gnome desktop environment, Orca can be launched automatically via the Universal Access Control Center under the Seeing section.
+In Pop!_OS using the GNOME desktop environment, Orca can be launched automatically via the Universal Access Control Center under the Seeing section.
 
 • To toggle Orca on and off press Super + Alt +S
 *Once engaged you will hear a voice confirmation “screen reader on” and it will begin reading the text on the screen through your speakers.* 
@@ -25,7 +25,7 @@ In Pop!_OS using the Gnome desktop environment, Orca can be launched automatical
 Orca can also be enabled during installation by using the Super + Alt + S keys. 
 
 ## Universal Access Options
-Gnome provides many accessibility tools within the Universal Access panel. You can access the Universal Access panel by opening Activities and typing 'Universal Access'. From within Universal Access panel there is a toggle to ‘Always Show Universal Access Menu’ to help you navigate back to this section easier in the future. 
+GNOME provides many accessibility tools within the Universal Access panel. You can access the Universal Access panel by opening Activities and typing 'Universal Access'. From within Universal Access panel there is a toggle to ‘Always Show Universal Access Menu’ to help you navigate back to this section easier in the future. 
 
 Once Universal Access is open you will have options for the following sections.
 1. **Seeing**. This section contains options for visual accessibility including:
