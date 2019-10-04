@@ -5,11 +5,11 @@ description: You can run Pop!_OS from a USB drive for hardware testing, recovery
 
 Pop!_OS is remarkably flexible. You can run a full version of Pop!_OS from a USB drive (often known as a thumb drive, flash drive, or USB stick) in what's known as a *live environment*. Using a live environment (live disk) is useful for:
 
-- [Installing Pop!_OS](/articles/install-pop/)
+- [Installing Pop!_OS](https://support.system76.com/articles/install-pop/)
 - Recovering your exiting operating system
 - Backing up files when you can't boot
-- [Determining if an issue is caused by hardware or software](/articles/hardware-failure/)
-- [Fixing the boot loader](/articles/grub/)
+- [Determining if an issue is caused by hardware or software](https://support.system76.com/articles/hardware-failure/)
+- [Fixing the boot loader](https://support.system76.com/articles/bootloader/)
 
 A live disk is a handy tool to have around! If you are running Pop!_OS 18.04 then you have a recovery partition which is just like a live disk. You can access this by rebooting your laptop/desktop and tapping the ESC or Space key. There is a menu entry called 'Pop!_OS Recovery', choose that with the arrow keys and then press enter.
 
