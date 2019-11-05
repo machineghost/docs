@@ -25,6 +25,10 @@ Popsicle is an open source app for Linux that allows you to "burn images to USB 
 sudo apt install popsicle-gtk
 ```
 
+Of course, if you were running Pop!_OS already, you wouldn't need these instructions!  Which makes the above advice really pointlesss.  It'd be great if someone could edit this with instructions on how to create a bootable Pop!_OS USB drive on OTHER distributions (ie. the kind everyone will be migrating from, to get to Pop).
+
+On any Debian-based distrubtion, it's likely as simple as adding a single additional repository ... but personally I don't know what repo that would be.
+
 Once you have installed Popsicle and downloaded the Pop!_OS.iso image, open the Popsicle application.
 
 ![Popsicle](/images/pop-live-disk/popsicle.png)
